@@ -3,9 +3,9 @@ import Script from 'next/script'
 import collapse from 'remark-collapse'
 
  export default {
-  projectLink: 'https://github.com/EvmosGov/docs',
-  docsRepositoryBase: 'https://github.com/EvmosGov/docs/blob/main',
-  github: 'https://github.com/EvmosGov',
+  projectLink: 'https://github.com/EvmosDAO/docs',
+  docsRepositoryBase: 'https://github.com/EvmosDAO/docs/blob/main',
+  github: 'https://github.com/EvmosDAO',
   titleSuffix: ' – Evmos DAO',
   mdxOptions: {
     remarkPlugins: [collapse]
